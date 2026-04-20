@@ -15,7 +15,7 @@ User Query → Embedding → Vector Search → Retrieved Context → LLM → Ans
 - Context-grounded generation
 - Simple and modular pipeline
 
-  ## Sample Output
+## Sample Output
 
 Retrieved context:
 Hallucination is a key challenge in LLM systems.
