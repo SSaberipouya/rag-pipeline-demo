@@ -1,0 +1,3 @@
+Generative AI systems can produce text, images, and code.
+RAG improves accuracy by retrieving external knowledge.
+Hallucination is a key challenge in LLM systems.
